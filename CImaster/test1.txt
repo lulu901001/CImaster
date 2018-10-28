@@ -1,0 +1,2 @@
+#/bin/bash
+#this my first repo in GIT
